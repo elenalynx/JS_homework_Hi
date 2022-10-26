@@ -46,3 +46,5 @@ for (let i = 0; i < 5; i += 1) {
 }
 
 console.log(store);
+
+// document.getElementById('hw_14').innerText = Object(store);
